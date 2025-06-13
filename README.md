@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank">
@@ -140,3 +141,7 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 <a href="https://beta.jsmastery.pro/" target="_blank">
   <img src="public/images/readme-bottom.png" alt="Project Banner">
 </a>
+=======
+# SwarajPortfolio
+My Portfolio
+>>>>>>> 3068aa700b608b07897b892545159b0dbc49c331
